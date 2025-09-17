@@ -15,9 +15,6 @@ Mozilla Firefox
 Safari
 
 Digitar o endereço do site
-Na barra de endereços, digite:
-https://www.seusite.com
-Pressione Enter no teclado.
 
 Navegar pelo site
 Pronto! Você já está na página inicial do site da empresa.
